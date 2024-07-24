@@ -1,0 +1,1 @@
+s = {8,7,12,"Swasti",[1,2]}    ## Set can not be chaaanged
